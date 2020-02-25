@@ -542,6 +542,7 @@ models/
 workdir/
 work/
 resdev/
+test/
 tfjs-models/
 node_modules/
 result_Sony/
